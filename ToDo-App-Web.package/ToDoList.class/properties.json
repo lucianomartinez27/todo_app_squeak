@@ -1,0 +1,14 @@
+{
+	"category" : "ToDo-App-Web",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"todos" ],
+	"name" : "ToDoList",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+tests
+testSystemHasNoPlannersWhenItIsCreated
+	self assert: system planners isEmpty

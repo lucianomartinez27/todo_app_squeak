@@ -1,0 +1,14 @@
+{
+	"category" : "ToDo-App-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"planner" ],
+	"name" : "PlannerTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

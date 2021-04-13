@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "LucianoMartinez 4/11/2021 18:01",
+		"testPlannerIdCanNotBeEmpty" : "lm 4/13/2021 11:56",
+		"testTasksAreAddedCorrectly" : "lm 4/13/2021 11:57",
+		"testToDoListIsEmptyWhenPlannerIsCreated" : "lm 4/13/2021 11:57" } }

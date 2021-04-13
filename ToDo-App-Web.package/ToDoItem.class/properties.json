@@ -1,0 +1,16 @@
+{
+	"category" : "ToDo-App-Web",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"task",
+		"date",
+		"done" ],
+	"name" : "ToDoItem",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

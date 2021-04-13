@@ -1,0 +1,15 @@
+{
+	"category" : "ToDo-App-Web",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"todos" ],
+	"name" : "Planner",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

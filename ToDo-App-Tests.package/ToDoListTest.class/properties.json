@@ -1,0 +1,14 @@
+{
+	"category" : "ToDo-App-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"todoList" ],
+	"name" : "ToDoListTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+tests
+testWhenAToDoListIsCreatedHasNoToDo
+	self assert: todoList isEmpty

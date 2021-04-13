@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "LucianoMartinez 4/11/2021 14:26",
+		"testPlannersAreAddedCorrectly" : "lm 4/13/2021 12:07",
+		"testSystemAddPlannersCorrectly" : "lm 4/13/2021 11:58",
+		"testSystemHasNoPlannersWhenItIsCreated" : "lm 4/13/2021 12:08",
+		"testWebAccesKeysAreCreatedCorrectly" : "lm 4/13/2021 12:06" } }

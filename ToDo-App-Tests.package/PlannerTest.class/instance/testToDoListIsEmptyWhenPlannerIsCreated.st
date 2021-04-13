@@ -1,0 +1,3 @@
+tests
+testToDoListIsEmptyWhenPlannerIsCreated
+	self assert: planner todoList isEmpty

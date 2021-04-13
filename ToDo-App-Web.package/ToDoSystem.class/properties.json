@@ -1,0 +1,16 @@
+{
+	"category" : "ToDo-App-Web",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"bot",
+		"webAccesKeys",
+		"planners" ],
+	"name" : "ToDoSystem",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

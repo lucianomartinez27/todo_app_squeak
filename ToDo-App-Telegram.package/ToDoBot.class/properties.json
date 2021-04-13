@@ -1,0 +1,14 @@
+{
+	"category" : "ToDo-App-Telegram",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"system" ],
+	"name" : "ToDoBot",
+	"pools" : [
+		 ],
+	"super" : "TelegramBot",
+	"type" : "normal" }

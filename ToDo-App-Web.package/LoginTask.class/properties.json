@@ -1,0 +1,14 @@
+{
+	"category" : "ToDo-App-Web",
+	"classinstvars" : [
+		"system" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"system" ],
+	"name" : "LoginTask",
+	"pools" : [
+		 ],
+	"super" : "WATask",
+	"type" : "normal" }

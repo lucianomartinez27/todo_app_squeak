@@ -1,1 +1,5 @@
-OrderedDictionary { }
+OrderedDictionary {
+	'ToDo-App-Telegram.package' : #SquotCypressCodeSerializer,
+	'ToDo-App-Tests.package' : #SquotCypressCodeSerializer,
+	'ToDo-App-Web.package' : #SquotCypressCodeSerializer
+}

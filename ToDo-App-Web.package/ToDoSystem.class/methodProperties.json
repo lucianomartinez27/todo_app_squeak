@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"forBot:" : "lm 4/13/2021 12:12" },
+	"instance" : {
+		"addPlannerOfId:" : "LucianoMartinez 4/11/2021 18:06",
+		"bot" : "lm 4/12/2021 09:48",
+		"bot:" : "lm 4/12/2021 09:48",
+		"generateRandomIdOfLarge:" : "lm 4/12/2021 09:42",
+		"generateWebAccesCodeFor:" : "lm 4/13/2021 11:53",
+		"hasPlannerOfId:" : "lm 4/12/2021 09:55",
+		"initialize" : "lm 4/13/2021 12:11",
+		"planners" : "LucianoMartinez 4/11/2021 17:18",
+		"webAccessKeys" : "LucianoMartinez 4/11/2021 18:05" } }

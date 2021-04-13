@@ -1,0 +1,14 @@
+{
+	"category" : "ToDo-App-Web",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ToDoAlert",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

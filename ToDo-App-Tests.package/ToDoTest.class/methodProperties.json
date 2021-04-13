@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "LucianoMartinez 4/9/2021 20:08",
+		"testAToDoCanBeMarkedAsNotDone" : "LucianoMartinez 4/9/2021 22:58",
+		"testATodoCanBeDone" : "LucianoMartinez 4/9/2021 22:58",
+		"testDateIsReturnedCorrecly" : "LucianoMartinez 4/9/2021 20:12",
+		"testToDoCantHaveEmptyTask" : "lm 4/13/2021 12:09",
+		"testToDoTaskAddedCorrectly" : "LucianoMartinez 4/9/2021 19:18",
+		"testWhenATodoIsCreatedIsNotDone" : "LucianoMartinez 4/9/2021 22:58",
+		"testWhenToDoIsCreatedTodayDateIsAssigned" : "LucianoMartinez 4/9/2021 20:15" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "ToDo-App-Web",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"todos" ],
+	"name" : "ToDoTask",
+	"pools" : [
+		 ],
+	"super" : "WATask",
+	"type" : "normal" }

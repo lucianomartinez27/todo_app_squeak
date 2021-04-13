@@ -1,0 +1,14 @@
+{
+	"category" : "ToDo-App-Web",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"planner" ],
+	"name" : "ToDoWeb",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }
